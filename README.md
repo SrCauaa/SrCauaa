@@ -18,7 +18,7 @@
 <br>
 <div>
   <br>
-  <h2> 💎| Minhas contribuições:</h2>
+  <h2> ✅| Minhas contribuições:</h2>
 </div>
 <br>
 <div>
