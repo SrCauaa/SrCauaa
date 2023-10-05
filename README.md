@@ -43,5 +43,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SrCauaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caaua.santos) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/SrCauaa) 
 
 </div>
-
-<img src="https://i.pinimg.com/originals/6d/52/73/6d52732852181a3f4ecf505620b2566c.gif">
+<div>
+<img src="[https://i.pinimg.com/originals/6d/52/73/6d52732852181a3f4ecf505620b2566c.gif](https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif)https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif">
+</div>
