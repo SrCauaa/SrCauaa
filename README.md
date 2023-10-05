@@ -45,5 +45,6 @@
 </div>
 <div>
 
-  <img src="[https://media.tenor.com/7LfXC60OyVkAAAAd/cyberpunk-cyberpunk-anime.gif](https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif)https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif" width="80%" height="450px" left="50%">
+  <img src="https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif" width="80%" height="450px" left="50%"> <br>
+ <h3> isso é tudo pessoal</h3>
 </div>
