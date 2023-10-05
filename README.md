@@ -15,7 +15,7 @@
   🖥️ - Em busca de me tornar um Grande Full-Stack Developer ♦️♠️♥️♣️
 </div>
 <br>
-<img src="https://media.tenor.com/7LfXC60OyVkAAAAd/cyberpunk-cyberpunk-anime.gif" width="100%" height="20px">
+<img src="https://media.tenor.com/7LfXC60OyVkAAAAd/cyberpunk-cyberpunk-anime.gif" width="100%" height="200px">
 <div>
   <h2> 🖱️| Tecnologias e Ferramentas que utilizo:</h2>
   
