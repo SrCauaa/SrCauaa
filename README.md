@@ -46,5 +46,5 @@
 <div>
 
   <img src="https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif" width="80%" height="450px" left="50%"> <br>
- <h3> isso é tudo pessoal</h3>
+ Isso é tudo pessoal 🥕
 </div>
