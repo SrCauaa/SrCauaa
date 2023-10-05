@@ -44,5 +44,6 @@
 
 </div>
 <div>
-<img src="[https://i.pinimg.com/originals/6d/52/73/6d52732852181a3f4ecf505620b2566c.gif](https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif)https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif">
+
+  <img src="[https://media.tenor.com/7LfXC60OyVkAAAAd/cyberpunk-cyberpunk-anime.gif](https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif)https://media.tenor.com/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif" width="80%" height="450px" left="50%">
 </div>
