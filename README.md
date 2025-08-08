@@ -6,13 +6,13 @@
 
 <div>
   <h2> 👾| Sobre Mim</h2>
-  🔭 - Atualmente Estudando Programação
+  🔭 - Atualmente Cursando DSM na FATEC
   <br>
-  🌱 - Estudando SQL,JavaScript e PHP
+  🌱 - Estudando JavaScript, Html/Css
   <br>
   💭 - Me pergunte sobre HTML, CSS, PHP, JavaScript, SQL
   <br>
-  🖥️ - Em busca de entrar no mercado de trabalho da área de ti
+  🖥️ - Em busca de iniciar como dev júnior
 </div>
 <br>
 <img src="https://media.tenor.com/7LfXC60OyVkAAAAd/cyberpunk-cyberpunk-anime.gif" width="80%" height="450px" left="50%">
