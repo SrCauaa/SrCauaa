@@ -46,6 +46,6 @@
 </div>
 
 <div>
- <h1> See you next time! </h1>
+ <h4> See you next time! </h4>
 </div>
 
