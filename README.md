@@ -12,7 +12,7 @@
   <br>
   💭 - Me pergunte sobre HTML, CSS, PHP, JavaScript, SQL
   <br>
-  🖥️ - Em busca de iniciar como dev júnior
+  🖥️ - Em busca de iniciar como dev júnior (procurando estágios)
 </div>
 <br>
 <img src="https://media.tenor.com/7LfXC60OyVkAAAAd/cyberpunk-cyberpunk-anime.gif" width="80%" height="450px" left="50%">
