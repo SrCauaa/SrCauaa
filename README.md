@@ -8,9 +8,9 @@
   <h2> 👾| Sobre Mim</h2>
   🔭 - Atualmente Cursando DSM na FATEC
   <br>
-  🌱 - Estudando JavaScript, Html/Css
+  🌱 - Estudando Java, MySQL, React
   <br>
-  💭 - Me pergunte sobre HTML, CSS, PHP, JavaScript, SQL
+  💭 - Me pergunte sobre Java, JavaScript, SQL
   <br>
   🖥️ - Em busca de iniciar como dev júnior (procurando estágios)
 </div>
