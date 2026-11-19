@@ -36,6 +36,8 @@
   <h2>🤝| Minhas redes sociais: </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauaalmeidasantos)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SrCaua)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cauaalmeidasantos0906@gmail.com)
 </div>
 
 <br>
