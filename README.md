@@ -5,10 +5,9 @@
 <div>
   <h2> 👾| Sobre Mim</h2>
   🎓 Atualmente cursando DSM na FATEC<br>
-  💻 Focado em **back end e desenvolvimento de APIs**<br>
-  🚀 Em busca de um estágio como **developer**<br>
+  💻 Focado em back end e desenvolvimento de APIs<br>
+  🚀 Em busca de um estágio como developer<br>
   🔭 Estudando Java, MySQL e React<br>
-  💭 Me pergunte sobre Java, JavaScript, SQL
 </div>
 
 <br>
@@ -36,9 +35,6 @@
 <div>
   <h2>🤝| Minhas redes sociais: </h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/srcauaa)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caaua.santos)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/srcauaaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauaalmeidasantos)
 </div>
 
